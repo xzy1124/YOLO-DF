@@ -23,13 +23,13 @@ The full UniFish dataset can be downloaded from:
 UniFish is a curated underwater fish detection dataset containing:
 
 - 10,880 images from real underwater scenarios (BRUV, ROV, fixed cameras, etc.)
-- 31 fish categories (labeled by marine experts)
+- 31 fish categories
 - YOLO-style annotations (`.txt`) for object detection tasks
 
 UniFish 是一个面向鱼类目标检测的大规模水下图像数据集，具有以下特点：
 
 - 共包含 10,880 张图像，来自真实的水下环境（如 BRUV、ROV、固定摄像头等）
-- 标注了 31 种鱼类类别，全部由专家审核
+- 标注了 31 种鱼类类别
 - 提供 YOLO 格式的目标检测标注（`.txt`）
 
 ---
