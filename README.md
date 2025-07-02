@@ -8,13 +8,12 @@
 
 The full UniFish dataset can be downloaded from:
 
-- [🔗 Google Drive (1.28 GB)](https://drive.google.com/file/d/17h1jRff5gCJjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
-- [🔗 Zenodo (with DOI)](https://doi.org/10.xxxx/zenodo.xxxx) *(if available)*
+- [🔗 Google Drive (1.28 GB)](https://drive.google.com/file/d/17h1jRff5gCIjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
 
 完整数据集下载链接如下：
 
-- [🔗 Google Drive（1.28 GB）](https://drive.google.com/file/d/17h1jRff5gCJjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
-- [🔗 Zenodo（带 DOI）](https://doi.org/10.xxxx/zenodo.xxxx)（如已上传）
+- [🔗 Google Drive（1.28 GB）](https://drive.google.com/file/d/17h1jRff5gCIjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
+
 
 
 ---
