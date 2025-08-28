@@ -6,13 +6,13 @@
 
 ## 📦 Download | 数据集下载
 
-The full UniFish dataset can be downloaded from:
+The partial UniFish dataset can be downloaded from:
 
-- [🔗 Google Drive (1.28 GB)](https://drive.google.com/file/d/17h1jRff5gCIjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
+- [🔗 Google Drive (110 MB)](https://drive.google.com/file/d/1cPWrWRpu8k7bZH12dBWz_OJH2nKhrvHI/view?usp=sharing)
 
-完整数据集下载链接如下：
+部分数据集下载链接如下：
 
-- [🔗 Google Drive（1.28 GB）](https://drive.google.com/file/d/17h1jRff5gCIjqREsDoRFOJck4kU8lyVs/view?usp=sharing)
+- [🔗 Google Drive（110 MB）](https://drive.google.com/file/d/1cPWrWRpu8k7bZH12dBWz_OJH2nKhrvHI/view?usp=sharing)
 
 
 
@@ -46,6 +46,6 @@ UniFish/
 │   ├── val/
 
 ## 🗂 Code
-The code will be uploaded later.
+The code and full dataset will be uploaded later.
 
 
